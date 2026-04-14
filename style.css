@@ -52,7 +52,7 @@ html {
 }
 
 .topo img {
-    width: 200px;
+    width: 180px;
     position: absolute;
     right: 0;
     top: 60px; /* controla o quanto desce */
