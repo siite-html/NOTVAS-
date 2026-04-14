@@ -38,3 +38,22 @@ color: red;
 html {
   scroll-behavior: smooth;
 }
+
+.topo {
+    display: flex;
+}
+
+.topo img {
+    margin-left: auto;
+    width: 100px;
+}
+.topo {
+    position: relative;
+}
+
+.topo img {
+    width: 200px;
+    position: absolute;
+    right: 0;
+    top: 60px; /* controla o quanto desce */
+}
