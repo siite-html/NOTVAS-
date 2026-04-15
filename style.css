@@ -1,0 +1,23 @@
+ h1 {
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    line-height: 1.6; /* espaço entre linhas */
+    color: black;
+}
+
+ol {
+    font-size: 20px;
+    line-height: 1.6; /* espaço entre linhas */
+    color: black;
+}
+
+li {
+
+color: red;
+
+}
+ li {
+    font-style: italic;
+}
